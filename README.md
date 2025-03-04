@@ -90,10 +90,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost lightgbm tensor
 
 How to Run the Scripts
 
-Clone the repository:
-
-git clone https://github.com/your-repo/sales-forecast.git
-cd sales-forecast
 
 Run data preprocessing:
 
@@ -127,10 +123,4 @@ Provides insights for optimizing stock levels and planning promotions.
 
 Helps in decision-making for better demand forecasting.
 
-Future Improvements
 
-Implement hyperparameter tuning for better accuracy.
-
-Incorporate additional external factors such as economic indicators.
-
-Deploy the model as an API for real-time forecasting.
